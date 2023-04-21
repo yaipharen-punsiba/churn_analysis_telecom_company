@@ -1,6 +1,6 @@
 # churn_analysis_telecom_company
 
-1.  The objective of this SQL project is to present a report newsletter style) perform some BASIC Exploratory Data Analysis (EDA) of a fictional Telecommunications Company
+1.  The objective of this SQL project is to present a report (newsletter style) of some BASIC Exploratory Data Analysis (EDA) of a fictional Telecommunications Company
 2.  The datasets was taken from Data playground of Maven Analytics (https://www.mavenanalytics.io/data-playground?page=2)
 3.  The SQL codes used in this project are to be run in SQL server
 4.  The server is hosted on a localhost a nd a database named TelecomCustomerChurn is created using SSMS GUI.
