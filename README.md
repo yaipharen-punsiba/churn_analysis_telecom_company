@@ -12,6 +12,8 @@
 8.  Finally the codes and their respective visuals are organized in powerpoint and then, saved as pdf file.
 9.  Feedbacks and suggestions are always appreciated. 
 
+### Please find the The final report (pdf file) and the SQL codes (.sql file) for reference.
+
 ## THANK YOU.
 
 ### Sneak peek at the cover page:
