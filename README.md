@@ -14,5 +14,5 @@
 
 ## THANK YOU.
 
-### Sneak peak of the cover page:
+### Sneak peek at the cover page:
 ![Churn_cover](https://user-images.githubusercontent.com/121415072/233718388-0d779aea-8da4-4a78-bc50-ae687d1b1093.PNG)
